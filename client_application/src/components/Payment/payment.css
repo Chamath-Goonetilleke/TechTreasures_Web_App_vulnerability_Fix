@@ -1,0 +1,29 @@
+.tablecart{
+    width: 100%;
+    margin: 20px;
+}
+.cartColumn1{
+    width: 600px;
+}
+.cartColumn2{
+    width: 400px;
+}
+.textFieldStylingPayment{
+    width: 60%;
+}
+.textField2StylingPayment{
+    width: 100%;
+}
+.totalPaymentTextStyling{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.pricePaymentSrtyling{
+    color: orange;
+}
+.priceTotalStylings{
+    margin-left: 280px;
+}
+.priceQuantityStylings{
+    margin-left: 250px;
+}
